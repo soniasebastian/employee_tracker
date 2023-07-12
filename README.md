@@ -15,6 +15,7 @@ The Employee Tracker application is a command-line tool designed to assist busin
 - [License](#License)
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Walkthroughvideo](#Walkthroughvideo)
 - [Screenshots](#Screenshots)
 - [Contribution](#Contribution)
 - [Test](Test) 
@@ -69,6 +70,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 * View employees by department.
 * Delete departments, roles, and employees.
 * View the total utilized budget of a department&mdash;in other words, the combined salaries of all employees in that department.
+
+## Walkthrough Video
+The following link shows a walkthrough video that demonstrates the functionality of the employee-tracker
+* [Click here for walkthrough video](https://drive.google.com/file/d/1MiskWsvLuVwLuwM1snLEEHUbby9i81XL/view)
+<br>
 
 ## Screenshots
 
