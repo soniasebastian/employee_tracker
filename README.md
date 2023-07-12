@@ -77,9 +77,18 @@ The following link shows a walkthrough video that demonstrates the functionality
 <br>
 
 ## Screenshots
-
-
-
+* View all departments
+  ![viewalldept](https://github.com/soniasebastian/employee_tracker/assets/130253087/63b64044-2e89-41d5-894c-4555731733df)
+* View all role & employees
+  ![viewrolesandemployees](https://github.com/soniasebastian/employee_tracker/assets/130253087/6a9daa01-7ba6-4fd5-b0e1-7dc420ad78c9)
+* Add departments, roles and employees
+ ![add](https://github.com/soniasebastian/employee_tracker/assets/130253087/ba8e8df7-d93d-4384-95c1-5671d88865e1)
+* View by
+ ![viewby](https://github.com/soniasebastian/employee_tracker/assets/130253087/fce191c8-fe66-4f41-bc66-426e697f6daa)
+* Delete department, role and employee
+  ![delete](https://github.com/soniasebastian/employee_tracker/assets/130253087/d7985f6d-e954-417d-9ad1-5831769f85a3)
+* View Utilized budget
+  ![viewbudget](https://github.com/soniasebastian/employee_tracker/assets/130253087/3cc9584b-84e3-499b-a200-b5a7d082ac60)
 
 ## Links
 The URL of the functional deployed application (https://soniasebastian.github.io/employee-tracker/)
